@@ -31,5 +31,6 @@ dist/
 .DS_Store
 Thumbs.db
 
-# Ignore the file credentials.json
+# Ignore the files
 credentials.json
+token
